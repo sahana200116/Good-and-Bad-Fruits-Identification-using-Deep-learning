@@ -1,0 +1,2 @@
+Fruits identification based on black patches using VGG-16 and YOLO V5 DL algorithms.
+VGG-16 is used for single fruit identification and YOLO-V5 is used for clustered fruit identification. 
